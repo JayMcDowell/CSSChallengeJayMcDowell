@@ -7,7 +7,7 @@ body {
 
 header {
 	margin-top: -5%;
-	background-image: url(/Users/jmm234/Desktop/NSS2013/CSSChallenge/img/header.jpg);
+	background-image: url(img/header.jpg);
 	background-repeat: repeat;
 	height: 200px;
 	
@@ -64,7 +64,7 @@ header {
 	    border-right: solid 1px white;
         display: inline block;
 		padding: 20px 33.5px; /*this is adjusting the size of the boxes*/
-		background-image: url(/Users/jmm234/Desktop/NSS2013/CSSChallenge/img/nav.jpg);
+		background-image: url(img/nav.jpg);
 		color: white;
 		text-decoration: none;
 		font-family: sans-serif;
@@ -135,7 +135,7 @@ header {
 
 .middlethree {
 	width: 33.33%;
-	background-image: url(/Users/jmm234/Desktop/NSS2013/CSSChallenge/img/banner-tail.gif);
+	background-image: url(img/banner-tail.gif);
 	float:left;
 	margin: none;
 }
@@ -455,7 +455,7 @@ header {
 }
 #highlightbox {
 	width: 100%;
-	background-image: url(/Users/jmm234/Desktop/NSS2013/CSSChallenge/img/nav.jpg);
+	background-image: url(img/nav.jpg);
 	margin-top: 25px;
 	
 }
